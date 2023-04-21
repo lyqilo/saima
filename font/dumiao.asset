@@ -1,0 +1,232 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: dumiao
+  m_EditorClassIdentifier: 
+  hashCode: -478357669
+  material: {fileID: 21704602398645878}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 8c0bc41b04b02854d95a01c3dcfce8d2, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 4211081201
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: 1
+    m_HashCode: 49
+  - m_ElementType: 2
+    m_Unicode: 4211081202
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: 2
+    m_HashCode: 50
+  - m_ElementType: 2
+    m_Unicode: 4211081203
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: 3
+    m_HashCode: 51
+  - m_ElementType: 2
+    m_Unicode: 1048575
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: g
+    m_HashCode: 103
+  - m_ElementType: 2
+    m_Unicode: 4294966255
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: r
+    m_HashCode: 114
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 260
+      m_Height: 298
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 298
+      m_HorizontalAdvance: 260
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 726
+      m_Width: 260
+      m_Height: 298
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 260
+      m_Height: 298
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 298
+      m_HorizontalAdvance: 260
+    m_GlyphRect:
+      m_X: 260
+      m_Y: 726
+      m_Width: 260
+      m_Height: 298
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 260
+      m_Height: 298
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 298
+      m_HorizontalAdvance: 260
+    m_GlyphRect:
+      m_X: 520
+      m_Y: 726
+      m_Width: 260
+      m_Height: 298
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 322
+      m_Height: 287
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 287
+      m_HorizontalAdvance: 322
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 439
+      m_Width: 322
+      m_Height: 287
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 568
+      m_Height: 296
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 296
+      m_HorizontalAdvance: 568
+    m_GlyphRect:
+      m_X: 322
+      m_Y: 430
+      m_Width: 568
+      m_Height: 296
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 726
+    width: 260
+    height: 298
+    xOffset: 0
+    yOffset: 298
+    xAdvance: 260
+    scale: 1
+    name: kaishi_1
+    hashCode: -581422177
+    unicode: -83886095
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 1
+    x: 260
+    y: 726
+    width: 260
+    height: 298
+    xOffset: 0
+    yOffset: 298
+    xAdvance: 260
+    scale: 1
+    name: kaishi_2
+    hashCode: -581422180
+    unicode: -83886094
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 2
+    x: 520
+    y: 726
+    width: 260
+    height: 298
+    xOffset: 0
+    yOffset: 298
+    xAdvance: 260
+    scale: 1
+    name: kaishi_3
+    hashCode: -581422179
+    unicode: -83886093
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 3
+    x: 0
+    y: 439
+    width: 322
+    height: 287
+    xOffset: 0
+    yOffset: 287
+    xAdvance: 322
+    scale: 1
+    name: zi_go
+    hashCode: 145639556
+    unicode: 1048575
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 4
+    x: 322
+    y: 430
+    width: 568
+    height: 296
+    xOffset: 0
+    yOffset: 296
+    xAdvance: 568
+    scale: 1
+    name: zi_yubei
+    hashCode: -1700489586
+    unicode: -1041
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  fallbackSpriteAssets: []
+--- !u!21 &21704602398645878
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 8c0bc41b04b02854d95a01c3dcfce8d2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

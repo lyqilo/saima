@@ -1,0 +1,92 @@
+{"frames": [
+
+{
+	"filename": "number3_0000_DeskUIAtlas_0002_图层-3.png",
+	"frame": {"x":0,"y":0,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0001_DeskUIAtlas_0041_图层-42.png",
+	"frame": {"x":16,"y":0,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0002_DeskUIAtlas_0040_图层-41.png",
+	"frame": {"x":0,"y":24,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0003_DeskUIAtlas_0039_图层-40.png",
+	"frame": {"x":16,"y":24,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0004_DeskUIAtlas_0038_图层-39.png",
+	"frame": {"x":0,"y":48,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0005_DeskUIAtlas_0036_图层-37.png",
+	"frame": {"x":16,"y":48,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0006_DeskUIAtlas_0035_图层-36.png",
+	"frame": {"x":0,"y":72,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0007_DeskUIAtlas_0034_图层-35.png",
+	"frame": {"x":16,"y":72,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0008_DeskUIAtlas_0004_图层-5.png",
+	"frame": {"x":0,"y":96,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+},
+{
+	"filename": "number3_0009_DeskUIAtlas_0003_图层-4.png",
+	"frame": {"x":16,"y":96,"w":16,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":24},
+	"sourceSize": {"w":16,"h":24}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "number2.png",
+	"format": "RGBA8888",
+	"size": {"w":32,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3bb9e78911d4f9b6e2b51c0035683cc3:27abb11e9330c15dd2fbee8e96a4b694:f0abe7633725d6006ce81814e4572559$"
+}
+}

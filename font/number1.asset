@@ -1,0 +1,407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: number1
+  m_EditorClassIdentifier: 
+  hashCode: 2123939218
+  material: {fileID: 21504008609003392}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: 67e3c1159dfdea847be97e7ebc913126, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 33
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: 5
+    m_HashCode: 53
+  - m_ElementType: 2
+    m_Unicode: 32
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: '-'
+    m_HashCode: 45
+  - m_ElementType: 2
+    m_Unicode: 22
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: 2
+    m_HashCode: 50
+  - m_ElementType: 2
+    m_Unicode: 9
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: 3
+    m_HashCode: 51
+  - m_ElementType: 2
+    m_Unicode: 52
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: 1
+    m_HashCode: 49
+  - m_ElementType: 2
+    m_Unicode: 51
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: 6
+    m_HashCode: 54
+  - m_ElementType: 2
+    m_Unicode: 50
+    m_GlyphIndex: 6
+    m_Scale: 1
+    m_Name: 0
+    m_HashCode: 48
+  - m_ElementType: 2
+    m_Unicode: 49
+    m_GlyphIndex: 7
+    m_Scale: 1
+    m_Name: 8
+    m_HashCode: 56
+  - m_ElementType: 2
+    m_Unicode: 48
+    m_GlyphIndex: 8
+    m_Scale: 1
+    m_Name: 4
+    m_HashCode: 52
+  - m_ElementType: 2
+    m_Unicode: 41
+    m_GlyphIndex: 9
+    m_Scale: 1
+    m_Name: X
+    m_HashCode: 88
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 404
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 68
+      m_Y: 404
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 136
+      m_Y: 404
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 296
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 68
+      m_Y: 296
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 136
+      m_Y: 296
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 188
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 68
+      m_Y: 188
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 136
+      m_Y: 188
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 68
+      m_Height: 108
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 108
+      m_HorizontalAdvance: 68
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 80
+      m_Width: 68
+      m_Height: 108
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 404
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0000_DeskUIAtlas_0020_\u56FE\u5C42-21"
+    hashCode: 1308029548
+    unicode: 33
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 1
+    x: 68
+    y: 404
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0001_DeskUIAtlas_0019_\u56FE\u5C42-20"
+    hashCode: 438910374
+    unicode: 32
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 2
+    x: 136
+    y: 404
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0002_DeskUIAtlas_0015_\u56FE\u5C42-16"
+    hashCode: -1571686676
+    unicode: 22
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 3
+    x: 0
+    y: 296
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0003_DeskUIAtlas_0008_\u56FE\u5C42-9"
+    hashCode: 653579327
+    unicode: 9
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 4
+    x: 68
+    y: 296
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0004_DeskUIAtlas_0033_\u56FE\u5C42-34"
+    hashCode: 1815049006
+    unicode: 52
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 5
+    x: 136
+    y: 296
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0005_DeskUIAtlas_0032_\u56FE\u5C42-33"
+    hashCode: 430860873
+    unicode: 51
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 6
+    x: 0
+    y: 188
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0006_DeskUIAtlas_0031_\u56FE\u5C42-32"
+    hashCode: 1222071272
+    unicode: 50
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 7
+    x: 68
+    y: 188
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0007_DeskUIAtlas_0030_\u56FE\u5C42-31"
+    hashCode: 2129464331
+    unicode: 49
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 8
+    x: 136
+    y: 188
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0008_DeskUIAtlas_0029_\u56FE\u5C42-30"
+    hashCode: 2011380493
+    unicode: 48
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 9
+    x: 0
+    y: 80
+    width: 68
+    height: 108
+    xOffset: 0
+    yOffset: 108
+    xAdvance: 68
+    scale: 1
+    name: "number1_0009_DeskUIAtlas_0028_\u56FE\u5C42-29"
+    hashCode: 2007749253
+    unicode: 41
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  fallbackSpriteAssets: []
+--- !u!21 &21504008609003392
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 67e3c1159dfdea847be97e7ebc913126, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

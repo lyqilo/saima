@@ -1,0 +1,442 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+  m_Name: number4
+  m_EditorClassIdentifier: 
+  hashCode: 2123939223
+  material: {fileID: 21782373082221714}
+  materialHashCode: 0
+  m_Version: 1.1.0
+  spriteSheet: {fileID: 2800000, guid: a39ce56691752a947866921e2ddedf0d, type: 3}
+  m_SpriteCharacterTable:
+  - m_ElementType: 2
+    m_Unicode: 19
+    m_GlyphIndex: 0
+    m_Scale: 1
+    m_Name: 4
+    m_HashCode: 52
+  - m_ElementType: 2
+    m_Unicode: 23
+    m_GlyphIndex: 1
+    m_Scale: 1
+    m_Name: 9
+    m_HashCode: 57
+  - m_ElementType: 2
+    m_Unicode: 24
+    m_GlyphIndex: 2
+    m_Scale: 1
+    m_Name: 8
+    m_HashCode: 56
+  - m_ElementType: 2
+    m_Unicode: 25
+    m_GlyphIndex: 3
+    m_Scale: 1
+    m_Name: 7
+    m_HashCode: 55
+  - m_ElementType: 2
+    m_Unicode: 35
+    m_GlyphIndex: 4
+    m_Scale: 1
+    m_Name: 5
+    m_HashCode: 53
+  - m_ElementType: 2
+    m_Unicode: 40
+    m_GlyphIndex: 5
+    m_Scale: 1
+    m_Name: 6
+    m_HashCode: 54
+  - m_ElementType: 2
+    m_Unicode: 56
+    m_GlyphIndex: 6
+    m_Scale: 1
+    m_Name: 0
+    m_HashCode: 48
+  - m_ElementType: 2
+    m_Unicode: 6
+    m_GlyphIndex: 7
+    m_Scale: 1
+    m_Name: 3
+    m_HashCode: 51
+  - m_ElementType: 2
+    m_Unicode: 7
+    m_GlyphIndex: 8
+    m_Scale: 1
+    m_Name: 2
+    m_HashCode: 50
+  - m_ElementType: 2
+    m_Unicode: 8
+    m_GlyphIndex: 9
+    m_Scale: 1
+    m_Name: +
+    m_HashCode: 43
+  - m_ElementType: 2
+    m_Unicode: 17
+    m_GlyphIndex: 10
+    m_Scale: 1
+    m_Name: 1
+    m_HashCode: 49
+  m_SpriteGlyphTable:
+  - m_Index: 0
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 208
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 1
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 32
+      m_Y: 208
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 2
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 64
+      m_Y: 208
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 3
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 96
+      m_Y: 208
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 4
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 160
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 5
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 32
+      m_Y: 160
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 6
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 64
+      m_Y: 160
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 7
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 96
+      m_Y: 160
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 8
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 0
+      m_Y: 112
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 9
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 32
+      m_Y: 112
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  - m_Index: 10
+    m_Metrics:
+      m_Width: 32
+      m_Height: 48
+      m_HorizontalBearingX: 0
+      m_HorizontalBearingY: 48
+      m_HorizontalAdvance: 32
+    m_GlyphRect:
+      m_X: 64
+      m_Y: 112
+      m_Width: 32
+      m_Height: 48
+    m_Scale: 1
+    m_AtlasIndex: 0
+    sprite: {fileID: 0}
+  spriteInfoList:
+  - id: 0
+    x: 0
+    y: 208
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0000_number4_0005_DeskUIAtlas_0012_\u56FE\u5C42-13"
+    hashCode: 1489940827
+    unicode: 19
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 1
+    x: 32
+    y: 208
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0001_number4_0004_DeskUIAtlas_0016_\u56FE\u5C42-17"
+    hashCode: -1924463109
+    unicode: 23
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 2
+    x: 64
+    y: 208
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0002_number4_0003_DeskUIAtlas_0017_\u56FE\u5C42-18"
+    hashCode: -1404588527
+    unicode: 24
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 3
+    x: 96
+    y: 208
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0003_number4_0002_DeskUIAtlas_0018_\u56FE\u5C42-19"
+    hashCode: -1712859585
+    unicode: 25
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 4
+    x: 0
+    y: 160
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0004_number4_0001_DeskUIAtlas_0022_\u56FE\u5C42-23"
+    hashCode: -1916346213
+    unicode: 35
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 5
+    x: 32
+    y: 160
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0005_number4_0000_DeskUIAtlas_0027_\u56FE\u5C42-28"
+    hashCode: -1509515147
+    unicode: 40
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 6
+    x: 64
+    y: 160
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0006_number4_0010_DeskUIAtlas_0037_\u56FE\u5C42-38"
+    hashCode: -1574309577
+    unicode: 56
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 7
+    x: 96
+    y: 160
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0007_number4_0009_DeskUIAtlas_0005_\u56FE\u5C42-6"
+    hashCode: 431802466
+    unicode: 6
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 8
+    x: 0
+    y: 112
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0008_number4_0008_DeskUIAtlas_0006_\u56FE\u5C42-7"
+    hashCode: -630865362
+    unicode: 7
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 9
+    x: 32
+    y: 112
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0009_number4_0007_DeskUIAtlas_0007_\u56FE\u5C42-8"
+    hashCode: 593751534
+    unicode: 8
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  - id: 10
+    x: 64
+    y: 112
+    width: 32
+    height: 48
+    xOffset: 0
+    yOffset: 48
+    xAdvance: 32
+    scale: 1
+    name: "number4_0010_number4_0006_DeskUIAtlas_0010_\u56FE\u5C42-11"
+    hashCode: -625972583
+    unicode: 17
+    pivot: {x: 0, y: 0}
+    sprite: {fileID: 0}
+  fallbackSpriteAssets: []
+--- !u!21 &21782373082221714
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextMeshPro/Sprite
+  m_Shader: {fileID: 4800000, guid: cf81c85f95fe47e1a27f6ae460cf182c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a39ce56691752a947866921e2ddedf0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ColorMask: 15
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _UseUIAlphaClip: 0
+    m_Colors:
+    - _ClipRect: {r: -32767, g: -32767, b: 32767, a: 32767}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}

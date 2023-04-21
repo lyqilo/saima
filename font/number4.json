@@ -1,0 +1,100 @@
+{"frames": [
+
+{
+	"filename": "number4_0000_number4_0005_DeskUIAtlas_0012_图层-13.png",
+	"frame": {"x":0,"y":0,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0001_number4_0004_DeskUIAtlas_0016_图层-17.png",
+	"frame": {"x":32,"y":0,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0002_number4_0003_DeskUIAtlas_0017_图层-18.png",
+	"frame": {"x":64,"y":0,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0003_number4_0002_DeskUIAtlas_0018_图层-19.png",
+	"frame": {"x":96,"y":0,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0004_number4_0001_DeskUIAtlas_0022_图层-23.png",
+	"frame": {"x":0,"y":48,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0005_number4_0000_DeskUIAtlas_0027_图层-28.png",
+	"frame": {"x":32,"y":48,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0006_number4_0010_DeskUIAtlas_0037_图层-38.png",
+	"frame": {"x":64,"y":48,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0007_number4_0009_DeskUIAtlas_0005_图层-6.png",
+	"frame": {"x":96,"y":48,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0008_number4_0008_DeskUIAtlas_0006_图层-7.png",
+	"frame": {"x":0,"y":96,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0009_number4_0007_DeskUIAtlas_0007_图层-8.png",
+	"frame": {"x":32,"y":96,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "number4_0010_number4_0006_DeskUIAtlas_0010_图层-11.png",
+	"frame": {"x":64,"y":96,"w":32,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":48},
+	"sourceSize": {"w":32,"h":48}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "number4.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:99576122ce5a163a8fdd77bdce3872c9:2a7b1498d6fa8acaa4d8c7337bdddcff:866d53af2399b1350b4366b46e32b628$"
+}
+}

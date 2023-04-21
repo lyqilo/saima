@@ -1,0 +1,52 @@
+{"frames": [
+
+{
+	"filename": "kaishi_1.png",
+	"frame": {"x":0,"y":0,"w":260,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+{
+	"filename": "kaishi_2.png",
+	"frame": {"x":260,"y":0,"w":260,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+{
+	"filename": "kaishi_3.png",
+	"frame": {"x":520,"y":0,"w":260,"h":298},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":260,"h":298},
+	"sourceSize": {"w":260,"h":298}
+},
+{
+	"filename": "zi_go.png",
+	"frame": {"x":0,"y":298,"w":322,"h":287},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":322,"h":287},
+	"sourceSize": {"w":322,"h":287}
+},
+{
+	"filename": "zi_yubei.png",
+	"frame": {"x":322,"y":298,"w":568,"h":296},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":568,"h":296},
+	"sourceSize": {"w":568,"h":296}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "dumiao.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1a4695bd2d6c91efbeaf65bbdad007f9:0c2520d552ff0c10683755213643f560:5251aef76394c52db9474ff3b892495b$"
+}
+}
